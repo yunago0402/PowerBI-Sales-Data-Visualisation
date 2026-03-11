@@ -7,8 +7,7 @@
 3. [Highlights](#highlights)
 4. [Insights](#insights)
 5. [ER Diagram](#ER Diagram)
-7. [Contribution](#contribution)
-8. [Conclusion](#conclusion)
+6. [Conclusion](#conclusion)
 
 ---
 ## Project Overview
@@ -60,5 +59,10 @@ Custom calculations enable in-depth analysis of factors such as sales by categor
 
 **XYZ Company Sales Data ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the company's sales analytics project.
 
+---
+
+## Conclusion
+
+The analysis of the ribbon chart highlights the inconsistent profit trends across continents, with North America and Europe experiencing fluctuations and Pacific displaying a unique pattern. The table data offers a convenient overview of key metrics, enabling easy comparison and identification of countries and regions contributing to profits and sales.
 
 
