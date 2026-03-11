@@ -51,8 +51,14 @@ Custom calculations enable in-depth analysis of factors such as sales by categor
 | ![product_and_customer_analysis](https://github.com/user-attachments/assets/d85a1bce-c551-4758-97c5-843036674e77) | ![regional_analysis](https://github.com/user-attachments/assets/08c9f142-b1b6-4a2b-bd90-768475cd6773) | 
 | It is observed that the top 10 products by sales quantity using a treemap. This visualization allows us to easily identify customers' strong preferences for specific products. | It is identified the top 10 customers based on sales quantity using a treemap. Additionally, it is analysed that customer preferences based on marital status and gender.
 
+---
 
 
+### ER Diagram
 
-<img width="763" height="700" alt="image" src="https://github.com/user-attachments/assets/6ad315ea-5c23-49ac-acf5-c45daafd4c1d" />
+![er_diagram](https://github.com/user-attachments/assets/6ad315ea-5c23-49ac-acf5-c45daafd4c1d)
+
+**XYZ Company Sales Data ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the company's sales analytics project.
+
+
 
