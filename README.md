@@ -49,7 +49,12 @@ Custom calculations enable in-depth analysis of factors such as sales by categor
 | Product and Customer Analysis | Regional Analysis |
 |-------------|-------------|
 
+
 <img width="1239" height="603" alt="image" src="https://github.com/user-attachments/assets/d85a1bce-c551-4758-97c5-843036674e77" />
 
 
 <img width="1242" height="604" alt="image_powerBI" src="https://github.com/user-attachments/assets/08c9f142-b1b6-4a2b-bd90-768475cd6773" />
+
+
+<img width="763" height="700" alt="image" src="https://github.com/user-attachments/assets/6ad315ea-5c23-49ac-acf5-c45daafd4c1d" />
+
