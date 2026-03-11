@@ -6,7 +6,7 @@
 2. [Key Features](#key-features)
 3. [Highlights](#highlights)
 4. [Insights](#insights)
-5. [ER Diagram](#ER Diagram)
+5. [ER Diagram](#ER-Diagram)
 6. [Conclusion](#conclusion)
 
 ---
